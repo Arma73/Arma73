@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+[![https://github-readme-stats.vercel.app/api?username=arma73&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff](https://github-readme-stats.vercel.app/api?username=arma73&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]()
+
 **arma73/arma73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
