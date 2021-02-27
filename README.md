@@ -2,9 +2,6 @@
  --- | ---
 [![https://github-readme-stats.vercel.app/api?username=arma73&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff](https://github-readme-stats.vercel.app/api?username=arma73&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://arma73.github.io/) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=arma73&theme=radical"></img>
 
-
-<hr>
-
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
