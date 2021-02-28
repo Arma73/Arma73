@@ -18,5 +18,3 @@
   <a align="left" href="https://github.com/arma73/webpack_boilerplates" title="webpack_boilerplates"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arma73&repo=webpack_boilerplates&theme=gotham"></a>
    <a align="right" href="https://github.com/arma73/monorepo_boilerplate" title="monorepo_boilerplate"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arma73&repo=monorepo_boilerplate&theme=gotham"></a>
 </p>
-
-<hr>
